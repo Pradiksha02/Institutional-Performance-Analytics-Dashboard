@@ -74,4 +74,4 @@ The **Student Analytics Dashboard** is an interactive Power BI project designed 
 **Pradiksha Logeswaran**
 
 * GitHub: https://github.com/Pradiksha02
-* LinkedIn: *(Add your LinkedIn URL here)*
+* LinkedIn: https://www.linkedin.com/in/pradiksha-logeswaran-808b62353/
