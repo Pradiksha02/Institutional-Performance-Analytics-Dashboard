@@ -1,4 +1,4 @@
-# 🎓 Student Analytics Dashboard using Power BI
+# 🎓 Institutional Performance Analytics Dashboard
 
 ## 📌 Project Overview
 
